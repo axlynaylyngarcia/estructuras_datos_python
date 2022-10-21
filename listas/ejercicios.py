@@ -67,14 +67,3 @@ lista2 = lista[:5]
 print(lista2)
 lista3 = lista[6:]
 print(lista3)
-
-
-
-
-
-
-
-
-
-
-
